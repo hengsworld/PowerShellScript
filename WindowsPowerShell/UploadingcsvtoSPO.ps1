@@ -1,4 +1,6 @@
-﻿#Load SharePoint CSOM Assemblies
+﻿#Code from Salaudeen Rajack
+
+#Load SharePoint CSOM Assemblies
 Add-Type -Path "C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\15\ISAPI\Microsoft.SharePoint.Client.dll"
 Add-Type -Path "C:\Program Files\Common Files\Microsoft Shared\Web Server Extensions\15\ISAPI\Microsoft.SharePoint.Client.Runtime.dll"
   
